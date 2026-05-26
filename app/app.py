@@ -1,4 +1,4 @@
-from Flask import Flask, jsonify
+from flask import Flask, jsonify
 import os
 import logging
 
